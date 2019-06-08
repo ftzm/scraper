@@ -1,0 +1,1 @@
+stub for cl scraper app in nix
